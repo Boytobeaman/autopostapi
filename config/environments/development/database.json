@@ -1,0 +1,22 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-mongoose",
+      "settings": {
+        "client": "mongo",
+        "uri": "",
+        "host": "127.0.0.1",
+        "srv": false,
+        "port": 27017,
+        "database": "autopostapi",
+        "username": "",
+        "password": ""
+      },
+      "options": {
+        "authenticationDatabase": "",
+        "ssl": false
+      }
+    }
+  }
+}
