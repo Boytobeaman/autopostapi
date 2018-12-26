@@ -31,7 +31,7 @@
       "model": "category",
       "via": "keyword"
     },
-    "ali_rank": {
+    "new_ali_rank": {
       "type": "json"
     },
     "to_promote_url": {
