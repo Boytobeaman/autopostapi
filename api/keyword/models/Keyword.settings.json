@@ -48,6 +48,10 @@
     },
     "isHard": {
       "type": "boolean"
+    },
+    "ali_post_cat": {
+      "default": "",
+      "type": "string"
     }
   }
 }
